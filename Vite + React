@@ -1,0 +1,10 @@
+  VITE v5.4.11  ready in 408 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose
+  ➜  press h + enter to show help
+
+/public/index.html
+/src/main.js
+/src/components/HelloWorld.jsx
+<img src="./images/logo.png" alt="Logo">
